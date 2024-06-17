@@ -15,6 +15,7 @@ Easily find nearby restaurants, Discover new dining options in their vicinity.
 - Type Animations: Dynamic text animations in the header for enhanced user experience.
 - Reset Functionality: Clear the map and search results with a reset button.
 - Restaurant Details: Shows restaurant name, vicinity, rating, user ratings, and a link to Google Maps.
+- DaisyUI Integration: Utilizes DaisyUI, a popular component library for Tailwind CSS, for enhanced UI components such as a visually appealing hero section.
 
 ## Tech Stack
 
@@ -23,6 +24,7 @@ Easily find nearby restaurants, Discover new dining options in their vicinity.
   - **React (TypeScript):**
   - **Redux Toolkit:**
   - **Tailwind CSS:**
+  - **DaisyUI:**
   - **React Google Maps:**
   - **React Type Animation:**
 
@@ -82,7 +84,6 @@ server
 - The response data is processed to include only the necessary information such as name, vicinity, rating, user ratings total, distance, and photo URL.
 - The frontend component `RestaurantList.tsx` dispatches the `fetchRestaurants` thunk to fetch and display the list of restaurants.
 
-
 ### Configuration and Setup
 
 - **Clone the Repository:**
@@ -120,6 +121,6 @@ server
 - **`cd client`**
 - **`npm start`**
 
-
 ##### 📚 Explore and Learn!
+
 This project is a gateway to exploring n learning, and planning to add on further iterations to enhance and expand. created it for exploration and showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
