@@ -60,7 +60,7 @@ server
 ```
 
 ![Default page Screenshot](screenshots/defaultpage.png)
-![Results page Screenshot](screenshots/results.png)
+![Results page Screenshot](screenshots/resultsPage.png)
 
 ### Components and State Management
 
