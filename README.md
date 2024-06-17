@@ -43,6 +43,7 @@ client
 │   │   ├── RestaurantList.tsx
 │   ├── images/
 │   │   ├── def-restaurant.jpg
+│   │   ├──menuplate.jpg
 │   ├── redux/
 │   │   ├── hooks.ts
 │   │   ├── store.ts
