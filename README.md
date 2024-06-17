@@ -122,4 +122,4 @@ server
 
 
 ##### 📚 Explore and Learn!
-This project is a gateway to exploring and learning. I created it as an educational tool to showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
+This project is a gateway to exploring and learning. I created it for exploring and showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
