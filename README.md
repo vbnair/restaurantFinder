@@ -121,5 +121,5 @@ server
 - **`npm start`**
 
 
-📚 Explore and Learn!
+##### 📚 Explore and Learn!
 This project is a gateway to exploring and learning. I created it as an educational tool to showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
