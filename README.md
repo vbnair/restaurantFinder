@@ -43,6 +43,7 @@ client
 │   │   ├── RestaurantList.tsx
 │   ├── images/
 │   │   ├── def-restaurant.jpg
+│   │   ├── menuplate.jpg
 │   ├── redux/
 │   │   ├── hooks.ts
 │   │   ├── store.ts
@@ -118,3 +119,7 @@ server
 
 - **`cd client`**
 - **`npm start`**
+
+
+##### 📚 Explore and Learn!
+This project is a gateway to exploring n learning, and planning to add on further iterations to enhance and expand. created it for exploration and showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
