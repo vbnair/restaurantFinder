@@ -121,6 +121,9 @@ server
 - **`cd client`**
 - **`npm start`**
 
+
+![Read Tutorial on Medium](https://medium.com/@vbkts88/building-a-simple-full-stack-restaurant-finder-app-with-react-redux-node-js-fbfe7dfa6ff7)
+
 ##### 📚 Explore and Learn!
 
 This project is a gateway to exploring n learning, and planning to add on further iterations to enhance and expand. created it for exploration and showcase the integration of various technologies. Dive in, experiment, and enjoy the journey! 🌟
